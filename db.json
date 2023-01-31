@@ -1,0 +1,32 @@
+{
+    "manufacturers": [
+      {
+        "id": 1,
+        "name": "BMW",
+        "founded": 1916,
+        "city": "Munich",
+        "country": "Germany"
+      },
+      {
+        "id": 2,
+        "name": "Renault",
+        "founded": 1898,
+        "city": "Boulogne-Billancourt",
+        "country": "France"
+      },
+      {
+        "id": 3,
+        "name": "Nissan",
+        "founded": 1933,
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan"
+      },
+      {
+        "id": 4,
+        "name": "Ford",
+        "founded": 1903,
+        "city": " Detroit, Michigan",
+        "country": "United States"
+      }
+    ]
+  }
